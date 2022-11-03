@@ -1,0 +1,11 @@
+HOW TO PLAY
+
+To play the game, click on index.html. Make sure the Fonts and Assets folders are in the same location as your index file.
+
+SHARE YOUR FEEDBACK!
+
+If you enjoyed this game, or just want to share your feedback, please share it on https://ryngm.itch.io/
+
+DISCLAIMER
+
+Please do not repurpose any part of this game for any purpose.
